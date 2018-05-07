@@ -6,11 +6,11 @@ In the original version of the bot, the tweets consist of only text, but in the 
 
 **Text-only tweet example:**
 
-![](Asriel Facts 1.png)
+![](https://github.com/Camgerine/all-projects/blob/master/Asriel%20Facts%201.png)
 
 **Tweet with image example:**
 
-![](Asriel Facts 2.png)
+![](https://github.com/Camgerine/all-projects/blob/master/Asriel%20Facts%202.png)
 
 ## What does it do?
 
